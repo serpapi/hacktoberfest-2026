@@ -16,7 +16,6 @@ model = OpenAIChatModel(
     os.getenv("LM_STUDIO_MODEL", "qwen/qwen3.6-35b-a3b"),
     provider=OpenAIProvider(
         base_url=os.getenv("LM_STUDIO_BASE_URL", "http://127.0.0.1:1234/v1"),
-        api_key=os.getenv("LM_STUDIO_API_KEY", "lm-studio"),
     ),
 )
 

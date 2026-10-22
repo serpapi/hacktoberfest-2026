@@ -43,7 +43,6 @@ agent = Agent(
     model,
     toolsets=[mcp],
     instructions=system_prompt,
-    # model_settings={"temperature": 0, "max_tokens": 2048, "timeout": 120, "openai_reasoning_effort": "medium"},
 )
 
 if __name__ == "__main__":
