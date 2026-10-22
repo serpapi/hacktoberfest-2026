@@ -1,0 +1,9 @@
+[project]
+name = "hacktoberfest2026"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic-ai-harness[skills]==0.59.0",
+    "pydantic-ai-slim[openai,mcp,web]>=2.59.0",
+    "python-dotenv>=1.2.4",
+]
