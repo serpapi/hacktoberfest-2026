@@ -12,6 +12,9 @@ Choose the current challenge and theme from the hub, build a new project with op
 
 For the SerpApi livestream, [Making Open Models Smarter with Tools, MCP, and Skills](https://dev.to/events/hacktoberfest-serpapi-open-models-tools/october-22-2026), use these resources to follow along and keep building:
 
+
+The livestream [slides are available here](./slides_making_open_models_smarter.pdf).
+
 | Resource | What you'll learn or find |
 | --- | --- |
 | [Building an AI Agent in Python](https://serpapi.com/blog/building-an-ai-agent-in-python/) | A walkthrough of models, tools, memory, context, and the agent loop. |
